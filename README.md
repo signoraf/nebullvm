@@ -54,9 +54,6 @@ We are actively working on incorporating the following modules, as requested by 
 - [ ]  [OptiMate](https://github.com/nebuly-ai/nebullvm/blob/main/apps/accelerate/optimate): Interactive tool guiding savvy users in achieving the best inference performance out of a given model / hardware setup.
 - [ ]  [TrainingSim](https://github.com/nebuly-ai/nebullvm/blob/main/apps/simulate/training_sim): Easily simulate the training of large AI models on a distributed infrastructure to predict training behaviours without actual implementation.
 
-
-Couldn't find what you were looking for? No problem, just shoot us an email at info@nebuly.ai and we'll work with you to develop the optimization modules you need. Don't hesitate to reach out!
-
 ## Contributing
 As an open source project in a rapidly evolving field, we welcome contributions of all kinds, including new features, improved infrastructure, and better documentation. If you're interested in contributing, please see the [linked](https://docs.nebuly.com/welcome/questions-and-contributions) page for more information on how to get involved.
 
